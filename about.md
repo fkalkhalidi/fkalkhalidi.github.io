@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
----
+title: Start Here
+permalink: "/start-here/"
 
+---
 Some information about you!
 
 ### More Information
