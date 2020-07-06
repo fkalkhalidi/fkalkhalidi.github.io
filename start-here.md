@@ -8,7 +8,7 @@ permalink: "/start-here/"
 
 ## Hi there, I'm Faisal!
 
-Welcome to my online home where I share everything I learn. 
+Welcome to my online home where I share everything I learn.
 
 ### Quick Bio
 
@@ -24,11 +24,13 @@ Welcome to my online home where I share everything I learn.
 
 ### Newsletter
 
-I publish a monthly newsletter featuring my latest blog posts and ideas. 
+I publish a monthly newsletter featuring my latest blog posts and ideas.
 
 It's the best way to keep up with everything I do on this site.
 
-<iframe src="https://faisalalkhalidi.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+    {% raw %}
+    <iframe src="https://faisalalkhalidi.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+    {% endraw %}
 
 ### Connect
 
