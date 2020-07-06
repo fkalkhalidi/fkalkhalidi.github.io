@@ -4,12 +4,32 @@ title: Start Here
 permalink: "/start-here/"
 
 ---
-Some information about you!
+![](/uploads/tc1.JPG)
 
-### More Information
+## Hi there, I'm Faisal!
 
-A place to include any other types of information that you'd like to include about yourself.
+Welcome to my online home where I share everything I learn. 
 
-### Contact me
+### Quick Bio
 
-[email@domain.com](mailto:email@domain.com)
+* Passionate about health, wellness, and longevity.
+* Avid reader and writer.
+* Constantly experimenting and optimizing in my life.
+
+### Work
+
+* I've spent the past few years as a growth lead for DTC health & wellness companies.
+* Currently leading growth marketing at Gainful.
+* Previously held roles at Perfect Keto, CarDash, DoorDash, Soma Water, and PayFort.
+
+### Newsletter
+
+I publish a monthly newsletter featuring my latest blog posts and ideas. 
+
+It's the best way to keep up with everything I do on this site.
+
+    <iframe src="https://faisalalkhalidi.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+### Connect
+
+Say hello on [Twitter](https://twitter.com/FaisalAlKhalidi)!
