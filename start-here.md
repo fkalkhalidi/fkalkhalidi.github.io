@@ -4,7 +4,7 @@ title: Start Here
 permalink: "/start-here/"
 
 ---
-![](/uploads/tc1.JPG)
+![](/uploads/tc1.JPG =300x250)
 
 ## Hi there, I'm Faisal!
 
