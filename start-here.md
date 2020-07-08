@@ -28,10 +28,6 @@ I publish a monthly newsletter featuring my latest blog posts and ideas.
 
 It's the best way to keep up with everything I do on this site.
 
-    {% raw %}
-    <iframe src="https://faisalalkhalidi.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-    {% endraw %}
-
 <iframe src="https://faisalalkhalidi.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ### Connect
