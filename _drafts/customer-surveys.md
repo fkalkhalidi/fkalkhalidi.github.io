@@ -48,7 +48,7 @@ My preferred tool is Typeform as I find the experience to be the simplest to use
 
 I typically set up a title page prior to the survey questions, a nice little feature Typeform has.
 
-\[Typeform title page screenshot\]
+![](/uploads/typeform-title-page.png)
 
 I write one sentence to thank the customer for helping us gather feedback, and set expectations for how long the survey will take them to complete.
 
@@ -56,7 +56,7 @@ I write one sentence to thank the customer for helping us gather feedback, and s
 
 Aside from the first question in my survey, I use the ‘Long Text’ question type so that customers can expand their responses as much as possible.
 
-\[Long Text Question type screenshot\]
+![](/uploads/long-text-question-type.png)
 
 For the first survey question I use a multiple choice question type and use the following options:
 
@@ -64,9 +64,9 @@ For the first survey question I use a multiple choice question type and use the 
 * Somewhat Disappointed
 * Not Disappointed
 
-\[Multiple choice PMF question screenshot\]
+![](/uploads/multiple-choice-pmf-question.png)
 
-This question has been used as a leading indicator for a company’s product-market fit. Rahul (last name) wrote a great piece about using this question as the basis for Superhuman’s engine to achieve product-market fit.
+This question has been used as a leading indicator for a company’s product-market fit. Rahul Vohra [wrote a great piece](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/) about using this question as the basis for Superhuman’s engine to achieve product-market fit.
 
 **Hidden Fields**
 
@@ -94,7 +94,7 @@ The tool I’ve found perfect for this process is Mailshake. What’s great abou
 
 Once I connect my email account, I can create a campaign and select the recipients from the customer list exported in the last step. From here I draft up the outreach template and select the appropriate mail merges to insert the customer’s first name.
 
-\[Mailshake outreach template\]
+![](/uploads/mailshake-outreach-template.png)
 
 The template I use above is the exact copy I use to reach out to customers. I like to start off by explaining how important customer feedback is to make the product better for them. In the second line, I’ll introduce myself and reiterate how we aim to keep improving the product and delivering the best customer experience that we can. I’ll end the email with an ask to complete a survey and thank them.
 
@@ -104,13 +104,13 @@ Regarding the survey link here, I’ve found it important to set expectations fo
 
 In the next part, you’ll have the option to preview each customer’s individual email outreach and spot any mistakes. Mailshake will also let you know if any customers have missing mail merge fields.
 
-\[Mailshake preview screenshot\]
+![](/uploads/mailshake-preview-screenshot.png)
 
 **Schedule**
 
 Finally, I’ll schedule the email to go out starting on a specific date and time. The sending part of this process is crucial to set up. In the first few runs using this system I ended up running into some spam traps and my email account was temporarily suspended.
 
-\[Mailshake sending rules screenshot\]
+![](/uploads/mailshake-sending-rules.png)
 
 You can set up the exact sending rules for your email account pictured above. For personal Gmail accounts, the sending limit is 500 emails/day and for GSuite business accounts the sending limit is 2000 emails/day. I personally hit the spam traps at 500 emails/day and ran into fewer issues at 250 emails/day.
 
@@ -124,9 +124,11 @@ I like to use Airtable to collect each new response as they come in so I can mor
 
 \[Typeform Airtable screenshot\]
 
+![](/uploads/typeform-airtable-integration.png)
+
 Typeform has an easy integration with Airtable that takes less than a few minutes to set up.
 
-\[Airtable category bucket screenshot\]
+![](/uploads/airtable-category-bucket.png)
 
 My process from here once responses start populating is to create a column next to each question to bucket each response into a high-level category. This makes it a lot easier to report off and surface insights.
 
