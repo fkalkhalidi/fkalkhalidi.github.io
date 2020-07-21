@@ -36,7 +36,7 @@ These are the top questions I ask and the intention behind each one:
 * How can we improve Gainful for you?
   * Why? - Product Improvements
 
-## Step 2: Set up survey tool
+## Step 2: Set up the survey tool
 
 Once I’ve identified the key pieces of insights I’m looking to gather and the questions that help me identify them, I then add those questions into a survey tool to collect responses.
 
@@ -84,7 +84,7 @@ These specific segments to reach out can vary depending on the outcome I am tryi
 
 I’ll dig up the names and emails for the target customer segments from our internal database and export the list for the next step in the process.
 
-## Step 4: Set up email outreach tool
+## Step 4: Set up the email outreach tool
 
 A key part of what makes this process so scalable is using an outbound email tool to help automate the process.
 
@@ -121,8 +121,6 @@ I’d personally recommend using an email account on a separate domain from your
 The last step of the process is to collect and analyze responses for insights.
 
 I like to use Airtable to collect each new response as they come in so I can more easily manually bucket each response into appropriate response categories.
-
-\[Typeform Airtable screenshot\]
 
 ![](/uploads/typeform-airtable-integration.png)
 
